@@ -1,8 +1,7 @@
 {
-  "name": "@apollo/client",
-  "version": "3.1.4",
+  "name": "apollo-client-fixed",
+  "version": "3.1.5",
   "description": "A fully-featured caching GraphQL client.",
-  "private": true,
   "keywords": [
     "apollo",
     "graphql",
